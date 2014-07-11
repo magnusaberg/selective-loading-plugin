@@ -1,8 +1,3 @@
-selective-loading-plugin
-========================
-
-Selective Loading Plugin for Wordpress
-
 === Selective Loading Plugin ===
 Contributors: magnusaberg, garnser
 Donate link: 

@@ -1,0 +1,25 @@
+#overview_templates {
+    float: left;
+    margin-left: 5%;
+}
+
+#overview_categories {
+    float: right;
+    margin-right: 5%;
+}
+
+h3.selectHeader {
+    cursor: auto
+}
+
+#overview_templates.slp_settings_subtitles {
+    margin-top: -15px;
+}
+.small_link {
+    margin-top: -5px;
+}
+
+.ms-container {
+    width: 370px;
+    margin: 0 auto;
+}
